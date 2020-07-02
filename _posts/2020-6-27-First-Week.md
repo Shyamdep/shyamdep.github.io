@@ -18,7 +18,7 @@ Later on in the week we had to use Qubu's content management system (cms) to upl
  After this week, I see potential in QuBu, and understand the work that goes behind making the app including the persuasion of businesses to get on board and maintaining those relations as well as the technical work and ideas.
 
 
- From my first experience I enjoyed trying to persuade the owner of the newsagent after watching Yogen Kaka demonstrate how to influence and sell the app to a local coffee shop. As well as this I really look forward to learning how to help with the programming aspect of QuBu.
+ From my first experience I enjoyed trying to persuade the owner of the newsagent after watching Yogi demonstrate how to influence and sell the app to a local coffee shop. As well as this I really look forward to learning how to help with the programming aspect of QuBu.
 
 
  One thing I didn’t enjoy was the long process of uploading products onto the app from the data entry excel spreadsheet as this was very time consuming.
