@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+# Contact info:
+[shyamdep@gmail.com](emailto:shyamdep@gmail.com)
+
+
+
 Some information about you!
 
 ### More Information
