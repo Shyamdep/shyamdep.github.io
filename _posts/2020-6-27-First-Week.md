@@ -27,9 +27,10 @@ Later on in the week we had to use Qubu's content management system (cms) to upl
  If I could go back in time I would have liked to suggest how to make the process of uploading items onto the app quicker and easier but suggesting ideas such as the idea that we could upload products under different categories rather than typing what category each product belonged to whilst entering the information for each product. However by going through this process it helped us to see any issues that maybe the users may find frustrating so overall it was a beneficial process.
 
 
-#References
+# References
 
 1. [Orca Barcode Scanner]( https://orcascan.com "Orca Barcode Scan")
 1. [Qubu App]( https://qubu.co.uk "Qubu")
 1. [Sanity Website ]( sanity.io "Sanity")
 
+![Scanning Mountford Pharmacy Products]( /images/Mountford.jpeg)
